@@ -4,7 +4,7 @@ Plain-English keywords for new developers and tech students.
 
 This repository contains a beginner-friendly dictionary PDF with simple definitions and real-world examples to help new developers understand common software engineering terms.
 
-## What’s inside
+## 📘 What’s inside
 
 - **PDF dictionary** (24 pages) covering:
   - Absolute basics
@@ -26,26 +26,26 @@ This repository contains a beginner-friendly dictionary PDF with simple definiti
   - Frontend & UI basics
   - Workflow, agile & teamwork
 
-## Download / View
+## ⬇️ Download / View
 
 - 📄 **Dictionary PDF:** `docs/Software Engineering Dictionary for Beginners.pdf`
 
 Tip: GitHub will often preview PDFs directly in the browser. If it doesn’t, click **Download**.
 
-## Who it’s for
+## 👀 Who it’s for
 
 - Beginners learning software engineering
 - Career changers and apprentices
 - Bootcamp students
 - Anyone who wants clear definitions without heavy jargon
 
-## How to use it
+## 🧠 How to use it
 
 - Keep the PDF open while you study, code, or watch tutorials
 - Search within the PDF for unfamiliar words
 - Highlight terms you see repeatedly and practise using them in sentences
 
-## Author
+## 👩🏽‍💻 Author
 
 **Ana Ribeiro Fernandes**
 
