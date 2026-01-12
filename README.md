@@ -49,7 +49,6 @@ Tip: GitHub will often preview PDFs directly in the browser. If it doesn’t, cl
 
 **Ana Ribeiro Fernandes**
 
-## Licence
+## 📜 Licence
 
-All rights reserved (default).  
-If you want others to share/adapt it, add a licence such as **Creative Commons (CC BY-NC)** or **CC BY** and mention it here.
+This work is licensed under **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**.
